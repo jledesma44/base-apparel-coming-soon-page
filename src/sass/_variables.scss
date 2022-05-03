@@ -1,0 +1,20 @@
+
+:root {
+//  Primary
+
+--Desaturated-Red: hsl(0, 36%, 70%);
+--Soft-Red: hsl(0, 93%, 68%);
+
+//  Neutral
+
+--Dark-Grayish-Red: hsl(0, 6%, 24%);
+
+//  Gradients
+// linear gradient, 135deg, from primary color, to secondary color
+
+--white-gradient-primary: hsl(0, 0%, 100%);
+--white-gradient-secondary: hsl(0, 100%, 98%);
+--pink-gradient-primary: hsl(0, 80%, 86%);
+--pink-gradient-secondary: hsl(0, 74%, 74%);
+
+}

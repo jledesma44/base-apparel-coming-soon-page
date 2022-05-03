@@ -1,5 +1,5 @@
 {
-  "name": "gulp-simple-starter",
+  "name": "base-apparel-coming-soon-master",
   "version": "1.0.0",
   "description": "gulp starter for simple html and css projects",
   "main": "gulpfile.js",
@@ -16,6 +16,8 @@
     "sass": "^1.44.0"
   },
   "dependencies": {
+    "gulp-kit": "^1.0.1",
+    "gulp-kit-2": "^0.2.2",
     "gulp-sourcemaps": "^3.0.0"
   }
 }
